@@ -1,7 +1,9 @@
 # Agent User Interaction Protocol Documentation
 
-The official documentation for the [Agent User Interaction Protocol](https://ag-ui.com).
+This is the repository AG-UI GitHub discussions are attached to.
 
-### Publishing Changes
+You probably want to visit one of the following links instead:
 
-Changes will be deployed to production automatically after pushing to the default branch.
+- [AG-UI GitHub Discussions](https://github.com/orgs/ag-ui-protocol/discussions)
+- [AG-UI Main Repo](https://github.com/ag-ui-protocol/ag-ui)
+- [AG-UI Documentation](https://ag-ui.com)
